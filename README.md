@@ -4,7 +4,7 @@
 
 ## 功能展示
 ### 效果图
-![功能演示1](figures/demo1.png)  # 相对路径：从readme.md所在位置，进入figures文件夹找demo1.png
+![功能演示1](figures/demo2.png)  # 相对路径：从readme.md所在位置，进入figures文件夹找demo2.png
 
 ## 目录
 
