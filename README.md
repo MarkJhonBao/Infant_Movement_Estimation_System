@@ -2,13 +2,9 @@
 
 > 早产儿卧床肢体姿态监控与护理系统 — 基于 Qt6 + CUDA + ONNX Runtime / TensorRT 的实时医疗大屏看板
 
-## 演示视频
-
-https://github.com/MarkJhonBao/Infant_Movement_Estimation_System/figures/44a35bfa4b9fd193be0cd47a13bf231f_raw.mp4
-
-> 若 GitHub 无法直接播放，请下载后本地查看，或点击 [figures/44a35bfa4b9fd193be0cd47a13bf231f_raw.mp4](figures/video.mp4)。
-
----
+## 功能展示
+### 效果图
+![功能演示1](figures/demo1.png)  # 相对路径：从readme.md所在位置，进入figures文件夹找demo1.png
 
 ## 目录
 
